@@ -9,3 +9,12 @@ The project folder AMLS_23-24_SN20100899 contains:
 - A Datasets folder intended for dataset files PneumoniaMNIST.npz and PathMNIST.npz.
 - main.py: A script that initiates a menu for selecting and running tasks.
 - README.md: Provides a description of the project and instructions for executing the code.
+
+# Required Packages 
+- numpy: For calculations and numerical functions
+- matplotlib: For data visualisation
+- seaborn: For advanced data visualisation 
+- sklearn: For data preprocessingand evaluation metrics of our models
+- tensorflow and keras: For designing and training CNN models
+
+# Execution Instructions
